@@ -1,0 +1,7 @@
+[client]
+user=root
+password=Mare.gaeta02
+host=127.0.0.1
+database=nyc-hotspots
+raise_on_warnings=True
+port=3307
